@@ -1,0 +1,25 @@
+{
+  "name": "4",
+  "version": "0.1.0",
+  "description": "probando gitignore",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gitignore",
+    "javascript"
+  ],
+  "author": "Shirley Suarez",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babelify": "^8.0.0",
+    "browserify": "^16.1.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "watchify": "^3.11.0"
+  }
+}
